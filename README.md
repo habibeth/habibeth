@@ -31,24 +31,52 @@ I hold a **Bachelor of Science** in **Computer Science & Engineering** from Daff
 - Windows
 - Linux
 
+### Tools:
+- 🧰 Oracle Database (Installation, Configuration, PDB Creation)
+- 📤 Data Migration (EXP/IMP)
+- 🛠️ Linux Server Administration (Ubuntu, Oracle Linux, Red Hat)
+- 🔒 Windows Server Administration
+- 🚀 Postman (API Testing)
+- 🎨 Adobe Photoshop / Illustrator
+
+### Databases:
+- 🗄️ Oracle Database
+- 🛢️ MySQL
+- 🧮 PostgreSQL
+
+---
+
 ## Current Projects
 
 ### What I'm Currently Working On:
-- MERN Stack Development for **full-stack applications**.
-- Performance optimization using **lazy loading**, **SSR (Server-Side Rendering)**, and **code splitting**.
+- **Agent Banking Solution Development:** Implementing IT security features and building a robust API system.
+- **Oracle Database Administration:** Managing and optimizing Oracle databases, including data migration, backup, and recovery.
 
 ### What I'm Learning:
-- **Advanced React.js** techniques.
-- **Web Performance Optimization**.
+- **Advanced Git and CI/CD:** Exploring best practices for version control and continuous integration/deployment.
+- **Cloud Technologies:** Diving deeper into cloud platforms like AWS and Azure for scalable application deployment.
+
+---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibeth&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibeth&layout=compact&theme=radical)
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=habibeth&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+
+---
 
 ## Contact Info
 
-- 📧 Email: [cse.habibdiu@gmail.com](mailto:cse.habibdiu@gmail.com)
-- 🔗 LinkedIn: [Ahsan Habib](https://www.linkedin.com/in/habib97)
-- 💼 Portfolio: [Ahsan Habib GitHub](https://github.com/habibeth)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahsanhabib)
+- ✉️ Email: [cse.habibdiu@gmail.com](mailto:cse.habibdiu@gmail.com)
+- 🌐 Portfolio: [Your Portfolio Link]
+
+---
+
+### Fun Facts
+- 🎮 I love playing chess, badminton, and cricket.
+- ✈️ Traveling is one of my passions; I enjoy discovering new places.
+- 🍳 I'm into cooking and gardening in my free time.
