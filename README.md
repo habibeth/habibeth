@@ -62,7 +62,7 @@ I hold a **Bachelor of Science** in **Computer Science & Engineering** from Daff
 ## GitHub Stats
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibeth&theme=monokai)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibeth&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibeth&theme=monokai)
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=habibeth&theme=radical)
 
 ---
