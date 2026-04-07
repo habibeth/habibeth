@@ -61,7 +61,7 @@ I hold a **Bachelor of Science** in **Computer Science & Engineering** from Daff
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibeth)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=habibeth)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibeth&layout=compact&theme=radical)
 ![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=habibeth&theme=radical)
 
