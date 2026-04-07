@@ -43,6 +43,7 @@ I hold a **Bachelor of Science** in **Computer Science & Engineering** from Daff
 - 🗄️ Oracle Database
 - 🛢️ MySQL
 - 🧮 PostgreSQL
+- 🗃️ MongoDB
 
 ---
 
