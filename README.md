@@ -61,11 +61,9 @@ I hold a **Bachelor of Science** in **Computer Science & Engineering** from Daff
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibeth&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibeth&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=habibeth&theme=radical)
 
 ---
 
