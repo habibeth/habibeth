@@ -71,7 +71,7 @@ I hold a **Bachelor of Science** in **Computer Science & Engineering** from Daff
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahsanhabib)
 - ✉️ Email: [cse.habibdiu@gmail.com](mailto:cse.habibdiu@gmail.com)
-- 🌐 Portfolio: [[Your Portfolio Link](https://habibvip.netlify.app/)]
+- 🌐 Portfolio: [Ahsan Habib Portfolio(https://habibvip.netlify.app/)]
 
 ---
 
